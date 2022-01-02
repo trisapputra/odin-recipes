@@ -1,0 +1,1 @@
+this project is my another attempt to learn about programming, and this time i learn the curicullum from The Odin Project.
