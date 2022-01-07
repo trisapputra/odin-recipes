@@ -1,0 +1,38 @@
+
+.container {
+    background-color: peachpuff;
+    width: fit-content;
+    margin: auto;
+    font-family: "Helvetica", sans-serif;
+    border: solid 8px rgb(114, 87, 64);
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+
+
+h1 {
+    font-size: 42px;
+    font-weight: bold;
+    color: rgb(114, 87, 64);
+}
+
+.list-item {
+    font-size: 28px;
+    margin: 2px;
+    color: peachpuff;
+}
+
+
+.subsection {
+    font-size: 28px;
+    color: rgb(114, 87, 64)
+}
+
+
+
+ul {
+    background-color: rgb(114, 87, 64);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 5px;
+}

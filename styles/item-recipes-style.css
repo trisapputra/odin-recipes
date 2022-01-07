@@ -1,0 +1,41 @@
+.container {
+    background-color: peachpuff;
+    width: 480px;
+    height: auto;
+    margin: auto;
+    font-family: "Helvetica", sans-serif;
+    border: solid 8px rgb(114, 87, 64);
+    padding: 8px 12px;
+}
+
+img {
+    width: 380px;
+    height: auto;
+    border-radius: 5px;
+    margin-left: 48px
+}
+
+p,
+ul,
+ol {
+   background-color: rgb(114, 87, 64);
+   border-radius: 5px;
+   color: peachpuff;
+   font-size: 22px;
+   font-weight: lighter;
+   padding: 12px 12px 12px 36px;
+}
+
+
+h1 {
+    font-size: 42px;
+    font-weight: bold;
+    color: rgb(114, 87, 64);
+}
+
+h2 {
+    font-size: 32px;
+    color: rgb(114, 87, 64);
+}
+
+
